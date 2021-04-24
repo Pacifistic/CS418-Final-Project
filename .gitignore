@@ -1,0 +1,3 @@
+# ignore ipynb folder
+.ipynb_checkpoints
+
